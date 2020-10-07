@@ -1,1 +1,1 @@
-# SQL reports relating to Dynamics AX
+# SQL queries relating to Dynamics AX
