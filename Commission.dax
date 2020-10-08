@@ -1,4 +1,4 @@
-﻿Cosmeticw Commission =
+﻿Cosmetics Commission =
 IF (
     [% Commission Cosmetics] = 1,
     CALCULATE (
