@@ -1,1 +1,1 @@
-# SQL queries relating to Dynamics AX
+# Dax Code for Power BI reports
