@@ -2,4 +2,4 @@
 ## *zaman*
 __________
 
-[my linked profile](https://ae.linkedin.com/in/zamanzafar)
+[my linkedIn profile](https://ae.linkedin.com/in/zamanzafar)
